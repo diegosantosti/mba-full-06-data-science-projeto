@@ -1,1 +1,2 @@
-# mba-full-06-data-science-projeto
+# Projeto Data Science - Colab Notebook
+Nome: Diego Tiburcio dos Santos
